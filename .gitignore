@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+
+# Environments
+.env
+.venv/
+venv/
+
+# Локальные настройки
+*.json
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
