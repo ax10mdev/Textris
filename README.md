@@ -18,7 +18,7 @@ Terminal-based Tetris implementation with modern features
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/yourusername/textris.git
+git clone https://github.com/ax10mdev/textris.git
 cd textris
 python3 textris.py
 ```
