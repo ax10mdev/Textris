@@ -9,10 +9,10 @@ __pycache__/
 .venv/
 venv/
 
-# Локальные настройки
+# Local configs
 *.json
 *.log
 
-# Системные файлы
+# System files
 .DS_Store
 Thumbs.db
