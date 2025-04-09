@@ -1,0 +1,5 @@
+# Linux/macOS
+curses
+
+# Windows
+windows-curses
